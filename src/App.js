@@ -4,7 +4,7 @@ import CounterPage from './Components/CounterPage';
 function App() {
   return (
     <div className="App">
-      <CounterPage />
+       <CounterPage />
     </div>
   );
 }
