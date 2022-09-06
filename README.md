@@ -1,3 +1,6 @@
+As it was recommended by redux itself  to use redux toolkit I redeveloped it with redux toolkit. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
