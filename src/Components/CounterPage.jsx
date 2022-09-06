@@ -6,7 +6,7 @@ import { decrease } from '../features/userslice';
 
 const CounterPage = () => {
 
-  const [count,setCount]=useState("0");
+  const [count,setCount]=useState(0);
   const dispatch = useDispatch();
   const handleIncrease=(e)=>{
     e.preventDefault();
